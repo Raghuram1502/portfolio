@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raghuram</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Raghuram</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>File Sharing Wesite</title>
+      <link>//localhost:1313/projects/filesharing/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/filesharing/</guid>
+      <description>Share files using a unique link.</description>
+    </item>
+    <item>
+      <title>Loan Management System</title>
+      <link>//localhost:1313/projects/loanmanagement/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/loanmanagement/</guid>
+      <description>Analysing eligible clients for loan based on their cibil score</description>
+    </item>
+    <item>
+      <title>URl-Shorterner</title>
+      <link>//localhost:1313/projects/urlshorterner/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/urlshorterner/</guid>
+      <description>It generates shorten URL to redirect to an URL</description>
+    </item>
+  </channel>
+</rss>

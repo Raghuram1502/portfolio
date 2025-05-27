@@ -1,0 +1,36 @@
+baseURL : ''
+languageCode : 'en-us'
+title : 'Raghuram'
+theme : 'PaperMod'
+
+menu :
+  main:
+    - identifier : Projects
+      name : Projects
+      url : /Projects/
+      weight : 10 
+
+    - identifier : Resume
+      name : Resume
+      url : /Resume.pdf/
+      weight : 20 
+
+params:
+  homeInfoParams:
+    Title: "👋 Hi, I'm Raghuram"
+    content : |
+      I recently graduated with a degree in Electronics and Communication Engineering and am passionate about web development and open source
+
+
+      I enjoy working with HTML, CSS, JavaScript, Python and java. I'm currently exploring backend tools like Flask and Django.
+
+
+      Apart from studies : I have played zonal level football and cricket.
+    AlignSocialIconsTo: center
+  socialIcons:
+    - name: github
+      url: "https://github.com/Raghuram1502/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/raghuram-m-578147337/"
+    - name: email
+      url: "mailto:raghuramm1502@gmail.com"
