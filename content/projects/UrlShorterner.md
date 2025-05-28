@@ -1,5 +1,5 @@
 ---
-title: "URl-Shorterner"
+title: "URL-Shorterner"
 date: 2025-05-23
 description: "It generates shorten URL to redirect to an URL"
 project_url: "https://github.com/Raghuram1502/urlshortener"
