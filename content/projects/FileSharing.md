@@ -1,5 +1,5 @@
 ---
-title: "File Sharing Wesite"
+title: "File Sharing Website"
 date: 2025-05-23
 description: "Share files using a unique link."
 project_url : "https://github.com/Raghuram1502/files"
@@ -7,16 +7,38 @@ project_url : "https://github.com/Raghuram1502/files"
 
 ### A secure and efficient platform for sharing files via unique, time-limited links.
 
--> Developed a full-stack file sharing application with a responsive UI using HTML/CSS.
+## Key Features:
 
--> Enabled users to upload files and receive a unique shareable link generated using Nano ID.
+- 💻 Responsive UI: Built with HTML/CSS for a clean and intuitive user experience across devices.
+<br>
 
--> Implemented robust file upload and download mechanisms with validation and error handling.
+<br>
 
--> Introduced link expiration to limit file access duration and ensure temporary availability.
+- 📤 File Upload & Sharing: Users can upload files and receive a unique, Nano ID-based shareable link.
+<br>
 
--> Automatically deleted expired files to conserve server storage and maintain efficiency.
+<br>
 
--> Secured file access using link-based access control for privacy and protection.
+- 🔒 Secure Access: Link-based access control ensures only intended users can access the file.
+<br>
 
--> Optimized the system for performance and resource usage, ensuring scalability.
+<br>
+
+- ⏳ Link Expiration: Shareable links expire after a set time, limiting unauthorized or prolonged access.
+<br>
+
+<br>
+
+- 🧹 Auto Cleanup: Expired files are automatically deleted to optimize server storage.
+<br>
+
+<br>
+
+- ✅ Robust Error Handling: Includes upload/download validations and user-friendly error messages.
+<br>
+
+<br>
+
+- ⚙️ Performance Optimized: Efficient file handling and cleanup designed for scalability.
+
+

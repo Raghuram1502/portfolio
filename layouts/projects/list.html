@@ -1,13 +1,17 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <br>
   <div class="project-list">
     {{ range .Pages }}
       <div class="project-item">
-        <h2>{{ .Title }}</h2>
-        <p>{{ .Params.description }}</p>
+        <h2>• {{ .Title }}</h2>
+        <p> {{ .Params.description }}</p>
         <a href="{{ .RelPermalink }}">View Details</a>
         {{ with .Params.project_url }}
-          <a href="{{ . }}" target="_blank">🔗 View Project</a>
+          <a href="{{ . }}" target="_blank"> 🔗View Project</a>
+          <br>
+
+          <br>
         {{ end }}
       </div>
     {{ end }}

@@ -4,12 +4,28 @@ date: 2025-05-23
 description: "Analysing eligible clients for loan based on their cibil score"
 project_url : "https://github.com/Raghuram1502/sqlproject"
 ---
--> Designed and implemented database triggers to automate critical workflows, ensuring data integrity and minimizing manual interventions.
 
--> Developed efficient stored procedures to handle complex business logic, significantly improving query performance and backend scalability.
+### Designed and optimized database systems to enhance automation, maintain integrity, and boost performance in financial and business applications.
 
--> Analyzed client data to determine loan eligibility based on CIBIL scores, automating the shortlisting process for financial assessments.
+## Key Contributions:
 
--> Configured and enforced foreign key constraints to maintain relational consistency and prevent data anomalies across interconnected tables.
+- ⚙️ Workflow Automation: Created database triggers to automate critical operations, ensuring data integrity and reducing manual effort.
+<br>
 
--> Streamlined data workflows and strengthened backend operations through robust database design and optimization techniques.
+<br>
+
+- 🧠 Optimized Logic: Developed efficient stored procedures to handle complex business rules, improving query performance and backend scalability.
+<br>
+
+<br>
+
+- 📊 Loan Eligibility Engine: Automated shortlisting based on CIBIL score analysis, accelerating client evaluations and decision-making.
+<br>
+
+<br>
+
+- 🔗 Data Integrity Enforcement: Configured foreign key constraints to maintain relational consistency and prevent anomalies across tables.
+<br>
+
+<br>
+- 🧹 Backend Optimization: Streamlined data workflows and strengthened backend performance through robust database design and tuning.

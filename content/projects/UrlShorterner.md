@@ -7,10 +7,26 @@ project_url: "https://github.com/Raghuram1502/urlshortener"
 
 ### A lightweight web application to generate and manage shortened URLs.
 
--> Built a system that generates shortened URLs to redirect users to the original long URLs.
+## Key Features:
 
--> Utilized Nano ID to create unique, compact, and collision-resistant short links.
+- 🔄 Custom URL Redirection: Developed backend logic to generate shortened URLs that reliably redirect users to the intended long-form destinations.
+<br>
 
--> Implemented link expiration functionality, allowing users to set a custom lifespan for each URL.
+<br>
 
--> Ensured seamless redirection logic and proper handling of expired or invalid links.
+- ⏳ Link Expiration Control: Introduced a flexible expiration feature allowing users to set a time limit on each shortened URL, improving link management and reducing misuse.
+<br>
+
+<br>
+
+- ❌ Expired Link Handling: Implemented detailed logic for handling invalid or expired URLs, returning user-friendly messages instead of generic errors.
+<br>
+
+<br>
+
+- 🌐 Minimalist Web Interface: Designed a clean and responsive frontend using HTML/CSS to ensure ease of use across devices.
+<br>
+
+<br>
+- 📊 Scalable Design: Built the backend with future growth in mind, making it easy to integrate analytics, user accounts, or link management dashboards.
+

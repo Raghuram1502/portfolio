@@ -1,0 +1,14 @@
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* 20px gap between project items */
+  /* Alternatively, if you don't want flex, just use margin below */
+}
+
+.project-item {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fafafa;
+  /* margin-bottom: 20px;  <-- use this if you remove flex+gap */
+}
